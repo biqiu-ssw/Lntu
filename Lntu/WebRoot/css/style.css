@@ -1,0 +1,27 @@
+
+form{
+	text-align: center;
+	margin-top: 50px;
+	font-family: cursive;
+}
+.them{
+	font-size: 30px;
+	font-family: cursive;
+	text-align:center;
+	margin-top: 50px;
+}
+
+input[type="submit"] {
+    font-family: cursive;
+}
+input[type="text"] {
+    font-family: cursive;
+}
+input[type="password"] {
+    font-family: cursive;
+    
+}
+span{
+	display: none;
+	color: red;
+}
